@@ -1,5 +1,5 @@
 # User Experience Portfolio - Vamsi Batchu
-#   
+  
 > Making the simple complicated is commonplace. Making the complicated simple, awesomely simple, that's creativity
 
 #### About Me
