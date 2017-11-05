@@ -2,6 +2,9 @@
   
 > Making the simple complicated is commonplace. Making the complicated simple, awesomely simple, that's creativity
 
+![Alt text](https://i.imgur.com/a1X9bnY.png)
+
+
 #### About Me
 UX/UI Designer and Front-end developer with a passion for designing clean and functional user experiences. I enjoy turning complex problems into beautiful and intuitive interface designs. Also, a full-time travel Jedi and a pizza fanatic.
 # 
