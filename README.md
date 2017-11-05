@@ -17,6 +17,15 @@ AJAX.
 ○ Back End : CRUD, REST, PHP, MongoDB, Node.js, Express.js
 
 # 
+#### Projects
+- `SACWIS` : Worked on full scale UX Design for Child Welfare Information System Portals of Ohio, Michigan & Mississippi.
+- `CKA AirportCheckin App` : 
+- `Department of Family and Community Services (Australia)`:
+- `Athena - Machine Learning App`:
+- `Breeze to Work` :
+
+
+# 
 
 ![Alt text](https://i.imgur.com/Wo0cX2s.png)
 
